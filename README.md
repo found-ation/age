@@ -1,1 +1,7 @@
-This a clean and unmodified version of empires2_x2_p1.dat, ideal for use in modding AoE2 DE
+The files contained in this repo are clean starter files required to create mods for AoE2 DE, the following files are included;
+
+1. empires.zip contains the main .dat file - empires2_x2_p1.dat (required for a data mod)
+2. info.json (required for a data mod)
+3. 
+
+
