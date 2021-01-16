@@ -6,4 +6,4 @@ The files contained in this repo are clean starter files required to create mods
 
 The zipped empires2_x2_p1.dat file should be considered as a pre Alpha state file that can be used but far from complete.
 
-
+More info and documentation can be obtained from the [AGE and AoE Wiki](https://idev.mx/index.php?title=Main_Page)
